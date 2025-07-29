@@ -3,7 +3,7 @@
 ## Prévisualisation
 
 - [Carte originale](https://regisenguehard.github.io/carte-france-svg/carte-france-svg.html)
-- [Carte modifiée avec numéros de départements](https://abnd.github.io/abloue/carte-france-numeros-departement.html)
+- [Carte modifiée avec numéros de départements](https://abend-core.github.io/Abcarte/carte-france-numeros-departement.html)
 
 ## Licence
 
