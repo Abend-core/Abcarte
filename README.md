@@ -1,11 +1,12 @@
-# carte-svg-france
+# Carte SVG de la France
 
-## Prévisualiser la carte (original)
-https://regisenguehard.github.io/carte-france-svg/carte-france-svg.html
+## Prévisualisation
 
-## Prévisualiser la carte modifiée avec les numéros des départements.
-https://abnd.github.io/abloue/carte-france-numeros-departement.html
+- [Carte originale](https://regisenguehard.github.io/carte-france-svg/carte-france-svg.html)
+- [Carte modifiée avec numéros de départements](https://abnd.github.io/abloue/carte-france-numeros-departement.html)
 
-## License
-Licence Creative Commons Attribution 4.0 International
-http://creativecommons.org/licenses/by/4.0/
+## Licence
+
+[Licence Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
+
+![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)
